@@ -1,4 +1,4 @@
-# Deep learning Class
+# Deep learning Course
 
 ## 教材或参考书目
 
